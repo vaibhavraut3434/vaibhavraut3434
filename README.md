@@ -45,10 +45,8 @@ src="https://img.shields.io/twitter/follow/vaibhavraut3434?logo=twitter&style=fo
 
 <a href="http://www.github.com/vaibhavraut3434"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavraut3434&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vaibhavraut3434's GitHub stats" /></a>
 
-<a href="http://www.github.com/vaibhavraut3434"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavraut3434&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/vaibhavraut3434" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraut3434&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vaibhav-raut-patil-18004712a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vaibhav-raut-patil-18004712a?trk=profile-badge">Vaibhav Raut Patil</a></div>
+              
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/vaibhavraut3434/Portfolio-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavraut3434&repo=Portfolio-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vaibhavraut3434/Job-Portal" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavraut3434&repo=Job-Portal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
@@ -56,3 +54,5 @@ src="https://img.shields.io/twitter/follow/vaibhavraut3434?logo=twitter&style=fo
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/vaibhavraut3434/BloodLine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavraut3434&repo=BloodLine&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
