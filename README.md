@@ -35,6 +35,7 @@
 <a href="https://dev.to/https://www.dev.to/vaibhavraut3434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://www.dev.to/vaibhavraut3434" height="30" width="40" /></a>
 <a href="https://twitter.com/vaibhavraut3434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavraut3434" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-raut-patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-raut-patil/" height="30" width="40" /></a>
+  [![](https://visitcount.itsvg.in/api?id=vaibhavraut3434&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 ### ✍️ 
