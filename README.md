@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Raut</h1>
-<h3 align="center">A passionate Backend Java Developer from India</h3>
+<h3 align="center">A passionate Backend Java Developer from India <img src="https://www.countryflags.io/us/flat/32.png" alt="USA Flag"></h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavraut3434&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavraut3434" /> </p> -->
 
