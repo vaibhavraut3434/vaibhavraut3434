@@ -1,16 +1,14 @@
 Hi 👋 My name is Vaibhav
 ========================
 
-Web Developer
+Java Developer
 -------------
 
 I am a lifelong learner and committed to clean, robust code and passionate to understand
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [vaibhavraut3434gmail.com](mailto:vaibhavraut3434gmail.com)
-* 🧠  I'm learning Full Stack MERN dev
-* 🤝  I'm open to collaborating on project related to React, Django and Python.
-* ⚡  Junior Full Stack Developer in making!
+* 🧠  I'm experienced Backend Java Developer
 
 <a href="https://www.twitter.com/vaibhavraut3434" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vaibhavraut3434?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
