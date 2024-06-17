@@ -40,7 +40,16 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-raut-patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vaibhav-raut-patil/" height="30" width="40" /></a>
 </p>
 
-<div width="100%" align="center"><a href="https://github.com/vaibhavraut3434/Portfolio-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavraut3434&repo=Portfolio-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vaibhavraut3434/Job-Portal" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavraut3434&repo=Job-Portal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/vaibhavraut3434/Portfolio-App" align="left"
+    ><img
+      align="left"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavraut3434&repo=Portfolio-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a
+  >
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavraut3434&show_icons=true&locale=en" alt="vaibhavraut3434" /></p>
 
