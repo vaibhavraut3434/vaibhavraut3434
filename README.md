@@ -5,11 +5,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=vaibhavraut3434&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!--
 - 🔭 I’m currently working on **working on**
-
+-->
 - 🌱 I’m currently praparing for Microsoft certification **Azure DevOps Engineer Expert**
-
+<!--
 - 👯 I’m looking to collaborate on **collaborate on**
 
 - 🤝 I’m looking for help with **help with**
@@ -17,14 +17,14 @@
 - 👨‍💻 All of my projects are available at [my projects are available at](my projects are available at)
 
 - 📝 I regularly write articles on [regularly write articles on](regularly write articles on)
-
-- 💬 Ask me about **Microservices**
+-->
+- 💬 Ask me anything about **Microservices, Spring and Java**
 
 - 📫 How to reach me **vaibhavraut3434@gmail.com**
-
+<!--
 - 📄 Know about my experiences [Know about my experiences](Know about my experiences)
-
-- ⚡ Fun fact **I am afraid of semicolons;**
+-->
+- ⚡ Not so Fun fact **I am afraid of semicolons;**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
