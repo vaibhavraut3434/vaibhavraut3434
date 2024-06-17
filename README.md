@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **working on**
 
-- 🌱 I’m currently learning **AZ-400**
+- 🌱 I’m currently praparing for Microsoft certification **Azure DevOps Engineer Expert**
 
 - 👯 I’m looking to collaborate on **collaborate on**
 
